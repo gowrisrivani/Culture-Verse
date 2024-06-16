@@ -1,0 +1,34 @@
+[
+    {
+        "event": "Diwali Festival",
+        "date": "October 15, 2023",
+        "location": "Mumbai, India",
+        "description": "Experience the vibrant colors, lights, and cultural performances during the celebration of the Hindu festival of lights."
+    },
+    {
+        "event": "Carnival de Rio",
+        "date": "February 25, 2024",
+        "location": "Rio de Janeiro, Brazil",
+        "description": "Join the world's biggest carnival for a dazzling display of samba parades, music, and vibrant costumes, celebrating Brazilian culture."
+    },
+    {
+        "event": "Hanami Festival",
+        "date": "April 3, 2024",
+        "location": "Tokyo, Japan",
+        "description": "Witness the breathtaking beauty of cherry blossoms during Hanami, a traditional Japanese custom of enjoying the transient beauty of flowers."
+    },
+    {
+        "event": "Oktoberfest",
+        "date": "September 21, 2023",
+        "location": "Munich, Germany",
+        "description": "Embrace the Bavarian culture with traditional music, dance, and, of course, a wide variety of beer during the world-famous Oktoberfest."
+    },
+    {
+        "event": "Mardi Gras",
+        "date": "March 5, 2024",
+        "location": "New Orleans, USA",
+        "description": "Experience the lively atmosphere of Mardi Gras with colorful parades, jazz music, and festive masks, marking the culmination of the carnival season."
+    }
+]
+
+
